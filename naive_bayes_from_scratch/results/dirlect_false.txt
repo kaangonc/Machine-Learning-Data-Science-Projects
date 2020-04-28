@@ -1,0 +1,17 @@
+Max-Min
+Max: 476 -1.3862943611198906
+Min: 0 -inf
+Max: 421 -1.3862943611198906
+Min: 0 -inf
+Max: 476 -1.3862943611198906
+Min: 0 -inf
+Max: 326 -1.3862943611198906
+Min: 0 -inf
+Confusion Matrix
+[[  7. 192.   1.   0.]
+ [  0. 200.   0.   0.]
+ [  0. 191.   9.   0.]
+ [  0. 192.   0.   8.]]
+True Results: 224
+False Results: 576
+Final Accuracy: 28.000000000000004
